@@ -24,5 +24,7 @@ vim /etc/elasticsearch/elasticsearch.yml
 
 
 service elasticsearch start
+
 service elasticsearch enable
+
 service elasticsearch restart
